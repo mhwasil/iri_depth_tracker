@@ -1,0 +1,22 @@
+<package>
+  <description brief="iri_depth_tracker">
+
+     iri_depth_tracker
+
+  </description>
+  <author>shusain</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/iri_depth_tracker</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="pcl_ros"/>
+  <depend package="sensor_msgs"/>
+  <depend package="openni_camera"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+
+</package>
+
+
